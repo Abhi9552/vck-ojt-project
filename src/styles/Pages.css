@@ -40,14 +40,20 @@ button {
 }
 
 .inner-body {
-    height: 550px;
-    width: 70%;
+    height: 70%;
+    width: 65%;
     margin: 8% 15% 8%;
     background-color:white;
     border-radius: 5px;
     overflow-y: auto;
-   color: black;
-   padding: 10px;
-   align-self: center;
-   
+        position: fixed;
+
+    color: black;
+    
+
+    
+    margin-top: 50px;
+    text-align: center;
+
+    
 }

@@ -3,7 +3,7 @@ import HomePage from "./pages/HomePage";
  import AboutPages from "./pages/AboutPage";
  import CoursesPage from "./pages/CoursesPage";
 import ContactPages from "./pages/ContactPages";
-import './styles/pages.css'
+import "./styles/Pages.css"
 import AdmisionPages from "./pages/AdmisionPages";
 import ChatbotComponent from "./components/Chatbot/ChatbotComponent";
 

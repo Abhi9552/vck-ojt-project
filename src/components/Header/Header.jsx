@@ -5,7 +5,7 @@ const Header = () => {
     <div>
         <header>
             <nav>
-                <h2>Vivekanand College kolhapur</h2>
+                <h2 align="left">Vivekanand College Kolhapur</h2>
                 <h2 align="right">
                 <Link to="/home">Home</Link>
                 <Link to="/about">About</Link>
