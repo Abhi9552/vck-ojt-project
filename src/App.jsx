@@ -5,7 +5,7 @@ import HomePage from "./pages/HomePage";
 import ContactPages from "./pages/ContactPages";
 import './styles/pages.css'
 import AdmisionPages from "./pages/AdmisionPages";
-
+import ChatbotComponent from "./components/Chatbot/ChatbotComponent";
 
 const App = () => {
   return(
@@ -21,7 +21,7 @@ const App = () => {
           <Route path="/contact" element={<ContactPages/>}/>
           <Route path="/admision" element={<AdmisionPages/>}/>
         </Routes>
-     
+      <ChatbotComponent/>
    
       </Router> 
        </div>
