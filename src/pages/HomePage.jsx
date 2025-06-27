@@ -8,7 +8,7 @@ const HomePage = () => {
             <Header/>
 
             <div class="inner-body">
-          <center><img src="images/vck.png" height="230" width="1150px"></img></center> 
+          <center><img src="images/vck.png" height="300px" width="100%"></img></center> 
            <h1>Welcome to Vivekanand College!</h1> 
            <h2>Your journey to excellence starts here.</h2>
       <p>
